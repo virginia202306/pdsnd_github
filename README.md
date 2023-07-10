@@ -11,8 +11,17 @@ It is a system that allows you to rent bikes for a reasonable amount of money. I
 In the past years, the bicycle sharing system has developed and spread widely in many cities of the world. As we mentioned before, in this project we will deal specifically with three major cities, Chicago, New York City, and Washington.
 
 ### Files used
-Include the files used
+In this project, we will work on data provided by Motivate, One of the bike sharing system s providers for many major cities in the United States of America, to uncover bike share usage patterns. 
+We are going to compare the system usage between three large cities: Chicago, New York City, and Washington. The data is randomly selected for the first six months of 2017 are provided for all three cities.
+
+Of course You will need the three city dataset files:
+
+- chicago.csv
+- new_york_city.csv
+- washington.csv
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+For this project the following homepage has been used:
+
+https://www.datainsightonline.com/post/exploring-us-bikeshare-data-project
 
