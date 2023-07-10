@@ -1,4 +1,7 @@
-#Please read firtst README#
+#Please read firtst README and make sure, the three following files are available to you:
+# - new_york_city
+# - washington
+# - chicago
 
 import time
 import pandas as pd
